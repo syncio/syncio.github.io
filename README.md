@@ -1,2 +1,2 @@
-# syncio..github.io
+# syncio.github.io
 syncio code style 
